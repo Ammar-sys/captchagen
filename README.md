@@ -1,2 +1,2 @@
 # captchagen
-captcha generator using PIL
+captcha generator using PILLOW, not really advanced but oh well
