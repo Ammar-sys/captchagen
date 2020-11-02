@@ -15,3 +15,5 @@ pip install PIL
 pip install random
 pip install os
 ```
+
+Do whatever you want with it, if you're going to use it credit would be aprecitiated. For any questions DM me on discord ammar#0443.
