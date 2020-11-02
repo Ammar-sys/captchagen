@@ -16,4 +16,6 @@ pip install random
 pip install os
 ```
 
+For this to work you'll need to change paths to your own (obviously)
+
 Do whatever you want with it, if you're going to use it credit would be aprecitiated. For any questions DM me on discord ammar#0443.
