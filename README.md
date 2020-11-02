@@ -1,8 +1,6 @@
-#
-captcha-gen
+# captcha-gen
 
-##
-captchagen
+## captchagen
 
 Hi, this code creates secure captchas using PILLOW (PIL) python library. In order for this to work, you will need following modules: 
 
