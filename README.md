@@ -1,21 +1,24 @@
-# captcha-gen
+# how to use
 
-## captchagen
+make sure to install all the files from the repo in order for it to work then go to config.json and set the path
+where images should be saved. do not delete anything cause u need everything in the repo for the gen to work
 
-Hi, this code creates secure captchas using PILLOW (PIL) python library. In order for this to work, you will need following modules: 
-
-- PILLOW
-- random
-- os
-
-In order to install these, run following commands in cmd:
+install *requirements.txt* (make sure ur in the cd)
 
 ```
-pip install PIL
-pip install random
-pip install os
+pip install requirements.txt
+```
+or
+```
+py -m pip install requirements.txt
 ```
 
-For this to work you'll need to change paths to your own (obviously)
+safe captchas n easy to use, the file names are the captcha solutions. this is good to use in things like discord
+bot verification systems.
 
-Do whatever you want with it, if you're going to use it credit would be aprecitiated. For any questions DM me on discord ammar#0443.
+# 5 images generated w this
+https://gyazo.com/ba8763f62727b32ea49eaa56aa8e7e56
+https://gyazo.com/b3d11500074b4971bcbd107ff58335f3
+https://gyazo.com/e4ad4b0e5f027edb8d372daa51f13d50
+https://gyazo.com/e972e69148bfb734f6f2357897ae4482
+https://gyazo.com/08edbca270e68d1b857ea5c0708510ec
