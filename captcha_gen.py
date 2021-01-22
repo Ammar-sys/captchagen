@@ -11,16 +11,14 @@ def random_char(y):
     return ''.join(secrets.choice(str1) for _ in range(y))
 
 font = [
-    ImageFont.truetype("./fonts/gadugi.ttf", 19),
     ImageFont.truetype("./fonts/arial.ttf", 19),
-    ImageFont.truetype("./fonts/Chalkduster_400.ttf", 19),
-    ImageFont.truetype("./fonts/Chalkduster_400.ttf", 19),
+    ImageFont.truetype("./fonts/gadugib.ttf", 19),
     ImageFont.truetype("./fonts/Chalkduster_400.ttf", 19)
 ]
 
 curr_json = load_json()
 
-for _ in range(0, curr_json["number_to_generate"]):
+for _ in range(0, curr_json["number_to_generate"]+1):
     text_color = (random.randint(150, 255), 255, random.randint(150, 255))
     image_color = (secrets.randbelow(255), random.randint(50, 125), secrets.randbelow(255))
 
