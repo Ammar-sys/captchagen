@@ -1,4 +1,4 @@
-# how to use
+# how to use (OUTDATED, captchas arent that good, look into captcha API)
 
 make sure to install all the files from the repo in order for it to work then go to config.json and set the path
 where images should be saved. do not delete anything cause u need everything in the repo for the gen to work
